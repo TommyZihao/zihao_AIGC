@@ -10,6 +10,19 @@ AI画《三体》名场面：https://www.bilibili.com/video/BV1b14y1W7iq
 
 AI挑战清华美院艺考题：https://www.bilibili.com/video/BV1d24y1f7Gi
 
+## AI画画工具
+
+Midjourney：https://www.midjourney.com
+百度文心一格：https://yige.baidu.com
+百度ERNIE-ViLG 文生图：https://wenxin.baidu.com/moduleApi/ernieVilg
+阿里达摩院通义文生图大模型、魔搭ModelScope社区：https://decoder.modelscope.cn/pcIndex
+华为云ModelArts一键AI作画：https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=03aab198-dc21-4974-ab33-352e9f56939c&ticket=ST-193587-MgJGfa1fxl6GFZ77F7vFjRod-sso
+Stable Diffusion：
+https://huggingface.co/spaces/stabilityai/stable-diffusion
+https://stablediffusionweb.com/#demo
+DreamStudio：https://beta.dreamstudio.ai/dream
+NovelAI（付费）：https://novelai.net
+
 ## AIGC作品解读
 
 
