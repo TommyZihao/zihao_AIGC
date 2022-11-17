@@ -2,6 +2,8 @@
 
 ## 视频
 
+AI画《三体》名场面：https://www.bilibili.com/video/BV1b14y1W7iq
+
 AI挑战清华美院艺考题：https://www.bilibili.com/video/BV1d24y1f7Gi
 
 
