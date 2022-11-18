@@ -2,9 +2,9 @@
 
 > 张子豪 2022-11-18
 
-## 视频
-
 AI画《三体》名场面：https://www.bilibili.com/video/BV1b14y1W7iq
+
+原图下载：https://pan.baidu.com/s/18LXApk-t70BK0SPZ_1J-Yg 提取码: qu8f
 
 作者：同济子豪兄
 
@@ -155,9 +155,9 @@ AI模仿人类油画的画法，绘制出将白色颜料崩弹到画纸上形成
 
 AI画画平台：Midjourney
 
-输入文字：large spaceship next to jupiter style of vincent di fa
+输入文字：large spaceship next to jupiter style of vincent di fate
 
-子豪兄评AI：AI模拟另一外画家的风格，绘制出蒸汽朋克太空战舰在木星上空飞行的效果。木星表面的花纹和大红斑壮丽而炫美，散发出神秘的荧光。
+子豪兄评AI：Vincent Di Fate是著名的科幻题材画家，AI模仿他的风格，绘制出蒸汽朋克太空战舰在木星上空飞行的效果。木星表面的花纹和大红斑壮丽而炫美，散发出神秘的荧光。
 
 ## 【C-2】太阳系二维化
 
