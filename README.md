@@ -14,7 +14,7 @@ AI挑战清华美院艺考题：https://www.bilibili.com/video/BV1d24y1f7Gi
 
 AI画我的三体之章北海传：https://www.bilibili.com/video/BV1Ux4y1F7zA
 
-原图下载、作品解读：https://github.com/TommyZihao/zihao_AIGC/blob/main/Three-Body/ZBH.md
+原图下载、作品解读：https://github.com/TommyZihao/zihao_AIGC/blob/main/ZBH.md
 
 ## AI画画工具
 
