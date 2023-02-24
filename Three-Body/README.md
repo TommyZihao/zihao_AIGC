@@ -6,7 +6,7 @@
 
 子豪兄的AIGC主页：https://github.com/TommyZihao/zihao_AIGC
 
-原图下载：https://pan.baidu.com/s/18LXApk-t70BK0SPZ_1J-Yg 提取码: qu8f
+高清原图百度网盘下载链接：公众号 人工智能小技巧 回复 AI画三体
 
 ## 作者
 
