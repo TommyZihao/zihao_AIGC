@@ -1,8 +1,10 @@
-# 三体AIGC作品解读
+# AI画三体名场面 作品解读
 
 > 张子豪 2022-11-19
 
 【视频】AI画《三体》名场面：https://www.bilibili.com/video/BV1b14y1W7iq
+
+【视频】AI画我的三体之章北海传：https://www.bilibili.com/video/BV1Ux4y1F7zA
 
 子豪兄的AIGC主页：https://github.com/TommyZihao/zihao_AIGC
 
