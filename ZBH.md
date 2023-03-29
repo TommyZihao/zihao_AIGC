@@ -218,6 +218,8 @@ A giant spaceship floating above Jupiter --ar 16:9
 
 A tall and slim Asian female space officer, smiles --ar 9:16
 
+子豪兄点评：这幅画是整个章北海系列里我最满意的一幅。太空本来是黑暗冷酷的异世界，但太空时代的新人类却轻盈飘逸，白皙脖颈旁飘逸的秀发彰显出东方女性的温柔知性，亚洲舰队女军官的飒爽英姿跃然纸上。腰间控制运动的超导腰带和原著也不谋而合。
+
 ### 深海保护液
 
 man in a spaceship filled with water --ar 16:9
