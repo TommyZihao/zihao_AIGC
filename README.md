@@ -16,6 +16,8 @@ AI画我的三体之章北海传：https://www.bilibili.com/video/BV1Ux4y1F7zA
 
 原图下载、作品解读：https://github.com/TommyZihao/zihao_AIGC/blob/main/ZBH.md
 
+斥资500元，我用AI打造的三体科幻微电影《云天明的童话》：https://www.bilibili.com/video/BV1Xu4y1b7ny
+
 ## 账号
 
 大家如果想在国内体验和购买Midjourney、ChatGPT、GPT4等AI画画、大模型、AIGC网站的高级Plus账号，可以联系我这位朋友，微信号chbi789（备注子豪兄介绍）
