@@ -10,7 +10,7 @@
 
 下载小人书原图、PDF、画图Skill
 
-链接: https://pan.baidu.com/s/1v2px_T8-qKl9lqSTjI7f0g
+链接：https://pan.baidu.com/s/1v2px_T8-qKl9lqSTjI7f0g
 
 提取码: h9ay
 
