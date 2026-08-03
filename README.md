@@ -6,7 +6,7 @@
 
 ## AI画的小人书
 
-用AI把《三体》画成八十年代小人书：https://www.bilibili.com/video/BV1EdGg6fEUt
+用AI把《三体》和《文明之旅》画成八十年代小人书：https://www.bilibili.com/video/BV1EdGg6fEUt
 
 下载小人书原图、PDF、画图Skill
 
