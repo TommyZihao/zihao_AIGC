@@ -4,6 +4,16 @@
 
 张子豪，B站UP主“同济子豪兄”：https://space.bilibili.com/1900783
 
+## AI画的小人书
+
+视频：https://www.bilibili.com/video/BV1EdGg6fEUt
+
+小人书原图、PDF、画图Skill
+
+链接: https://pan.baidu.com/s/1v2px_T8-qKl9lqSTjI7f0g
+
+提取码: h9ay
+
 ## 视频
 
 AI画《三体》名场面：https://www.bilibili.com/video/BV1b14y1W7iq
