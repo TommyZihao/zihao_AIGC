@@ -14,6 +14,14 @@
 
 提取码: h9ay
 
+## AI画的山西旅游扑克牌
+
+下载扑克牌原图、画图Skill
+
+链接: https://pan.baidu.com/s/1X04bER5Cx9kniPm2pfslGg
+
+提取码: a2av
+
 ## 视频
 
 AI画《三体》名场面：https://www.bilibili.com/video/BV1b14y1W7iq
